@@ -6,6 +6,7 @@ import android.util.Log;
 import android.view.View;
 
 import com.soullistener.jnipratice.JniUtils;
+import com.soullistener.jnipratice.Utils;
 
 public class MainActivity extends AppCompatActivity {
 
